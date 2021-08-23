@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://bharathingowda.github.io/csb-ltqui/static/css/main.a7cc118e.chunk.css",
+    "main.js": "https://bharathingowda.github.io/csb-ltqui/static/js/main.8536967d.chunk.js",
+    "main.js.map": "https://bharathingowda.github.io/csb-ltqui/static/js/main.8536967d.chunk.js.map",
+    "runtime-main.js": "https://bharathingowda.github.io/csb-ltqui/static/js/runtime-main.70f6a9f3.js",
+    "runtime-main.js.map": "https://bharathingowda.github.io/csb-ltqui/static/js/runtime-main.70f6a9f3.js.map",
+    "static/js/2.dd996233.chunk.js": "https://bharathingowda.github.io/csb-ltqui/static/js/2.dd996233.chunk.js",
+    "static/js/2.dd996233.chunk.js.map": "https://bharathingowda.github.io/csb-ltqui/static/js/2.dd996233.chunk.js.map",
+    "index.html": "https://bharathingowda.github.io/csb-ltqui/index.html",
+    "precache-manifest.f600f1813b73a313542222d4d660ea71.js": "https://bharathingowda.github.io/csb-ltqui/precache-manifest.f600f1813b73a313542222d4d660ea71.js",
+    "service-worker.js": "https://bharathingowda.github.io/csb-ltqui/service-worker.js",
+    "static/css/main.a7cc118e.chunk.css.map": "https://bharathingowda.github.io/csb-ltqui/static/css/main.a7cc118e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f6a9f3.js",
+    "static/js/2.dd996233.chunk.js",
+    "static/css/main.a7cc118e.chunk.css",
+    "static/js/main.8536967d.chunk.js"
+  ]
+}
