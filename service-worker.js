@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://bharathingowda.github.io/csb-ltqui/precache-manifest.f600f1813b73a313542222d4d660ea71.js"
+  "https://bharathingowda.github.io/csb-ltqui/precache-manifest.7e111eeedaf4a753f1a454893b467a79.js"
 );
 
 self.addEventListener('message', (event) => {
